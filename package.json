@@ -1,0 +1,15 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "It's a Student Api",
+  "license": "ISC",
+  "author": "Hammad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
